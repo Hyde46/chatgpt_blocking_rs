@@ -1,6 +1,6 @@
 [package]
 name = "chatgpt_blocking_rs"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 description = "Blocking ChatGPT API Wrapper"
 authors = ["Hyde45 <denis.heid@protonmail.com", "Maxuss <maxus.info.mail@proton.me>"]
